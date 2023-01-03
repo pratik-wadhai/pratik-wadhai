@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratik Wadhai
 =====================================================================================================================================
 
-Frontend Developer
+                                            A passionate Frontend Developer from India
 ------------------
 
 After losing money in stock trading and crypto. I 've been learning to code for past 6 months after graduating. I started with html and python but found my passion in frontend development.
