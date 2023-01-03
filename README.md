@@ -7,6 +7,7 @@ Frontend Developer
 After losing money in stock trading and crypto. I 've been learning to code for past 6 months after graduating. I started with html and python but found my passion in frontend development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 * 🌍  I'm based in Nagpur,India
 * 🖥️  See my portfolio at [MyPortfolio](http://pratikwadhai.com)
@@ -15,6 +16,7 @@ After losing money in stock trading and crypto. I 've been learning to code for 
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I love Cooking
+
 
 <a href="https://www.github.com/pratik-wadhai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pratik-wadhai?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.twitter.com/PratikWadhai5" target="_blank" rel="noreferrer"><img
