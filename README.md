@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-After losing money in stock trading and crypto. I 've been learning to code for past 6 months after graduating. I started with html and python but found my passion in frontend development.
+As a recent graduate with a passion for web development, I have acquired skills in HTML, CSS, and JavaScript. My knowledge in UI design and web development can be leveraged to help develop compelling, high-performance user experiences. With a solid foundation in coding, I am eager to bring my knowledge and experience to an exciting opportunity in the field of Frontend Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
