@@ -9,7 +9,7 @@ As a recent graduate with a passion for web development, I have acquired skills 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 * 🌍  I'm based in Nagpur,India
-* 🖥️  See my portfolio at [MyPortfolio](http://pratikwadhai.com)
+* 🖥️  See my portfolio at [MyPortfolio](https://deft-cobbler-5d0c2f.netlify.app/)
 * ✉️  You can contact me at [pratikwadhai001@gmail.com](mailto:pratikwadhai001@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting Projects
