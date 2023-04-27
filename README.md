@@ -6,7 +6,8 @@ Frontend Developer
 
 As a recent graduate with a passion for web development, I have acquired skills in HTML, CSS, and JavaScript. My knowledge in UI design and web development can be leveraged to help develop compelling, high-performance user experiences. With a solid foundation in coding, I am eager to bring my knowledge and experience to an exciting opportunity in the field of Frontend Development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" />
+
 
 * 🌍  I'm based in Nagpur,India
 * 🖥️  See my portfolio at [MyPortfolio](https://deft-cobbler-5d0c2f.netlify.app/)
@@ -15,10 +16,7 @@ As a recent graduate with a passion for web development, I have acquired skills 
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  I love Cooking
 
-<a href="https://www.github.com/pratik-wadhai" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pratik-wadhai?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.twitter.com/PratikWadhai5" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/PratikWadhai5?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
-/></a>
+
 
 ### Skills
 
