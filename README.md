@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pratik Wadhai
 =====================================================================================================================================
 
-Frontend Developer
+Fullstack Dev
 ------------------
 
 As a recent graduate with a passion for web development, I have acquired skills in HTML, CSS, and JavaScript. My knowledge in UI design and web development can be leveraged to help develop compelling, high-performance user experiences. With a solid foundation in coding, I am eager to bring my knowledge and experience to an exciting opportunity in the field of Frontend Development.
@@ -35,9 +35,7 @@ As a recent graduate with a passion for web development, I have acquired skills 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-
-
-
+</p>
 
 
 
