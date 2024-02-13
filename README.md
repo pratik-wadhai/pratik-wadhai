@@ -10,7 +10,7 @@ As a recent graduate with a passion for web development, I have acquired skills 
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](https://deft-cobbler-5d0c2f.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://pratik-wadhai.netlify.app/)
 * ✉️  You can contact me at [pratikwadhai001@gmail.com](mailto:pratikwadhai001@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting Projects
