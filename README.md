@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Dev
 ------------------
 
-As a recent graduate with a passion for web development, I have acquired skills in HTML, CSS, JavaScript, React and NodeJS. My knowledge in UI design and web development can be leveraged to help develop compelling, high-performance user experiences. With a solid foundation in coding, I am eager to bring my knowledge and experience to an exciting opportunity in the field of FullStack Development.
+Im frontend Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" />
 
