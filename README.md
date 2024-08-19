@@ -14,7 +14,7 @@ Im frontend Engineer
 * ✉️  You can contact me at [pratikwadhai001@gmail.com](mailto:pratikwadhai001@gmail.com)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I love Cooking
+* ⚡  Hikking MMA
 
 
 
