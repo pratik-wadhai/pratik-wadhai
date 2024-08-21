@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Dev
 ------------------
 
-Im frontend Engineer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> </p> <img align="right" alt="Coder GIF" height=250 width=350 src="https://i.pinimg.com/originals/ab/e5/57/abe557b5780fc93e83447ac60987d000.gif" />
-
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](https://pratik-wadhai.netlify.app/)
