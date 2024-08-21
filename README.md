@@ -6,7 +6,7 @@ Frontend Developer
 
 I've been learning to code from 4 years. Started during covid-19 discovered my passion for building websites and problem solving
 
-<p><img src="https://www.pinterest.com/pin/823173638127754604/" /></p>
+<p><img src="https://www.pinterest.com/pin/823173638127754604/"></p>
 
 * 🌍  I'm based in Nagpur
 * 🖥️  See my portfolio at [MyPortfolio](http://pratik-wadhai.netlify.app/)
