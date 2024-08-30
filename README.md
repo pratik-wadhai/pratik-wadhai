@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Wadhai</h1>
 <h3 align="center">Crafting pixel-perfect, user-centric web experiences | React enthusiast | CSS wizard</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" />  </p>
-<img src="https://github.com/user-attachments/assets/d3917b4d-1df2-4573-bd25-a25f6cc4fad1" align="right" />
+<img width="400px" src="https://github.com/user-attachments/assets/d3917b4d-1df2-4573-bd25-a25f6cc4fad1" align="right" />
 
 - 🔭 I’m currently working on [music-saas](https://github.com/pratik-wadhai/music_saas)
 
