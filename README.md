@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12YKq4MoaJ8rg06kLgSRJ7mwn_yiBPrqb/view?pli=1](https://drive.google.com/file/d/12YKq4MoaJ8rg06kLgSRJ7mwn_yiBPrqb/view?pli=1)
 
-- ⚡ Fun fact **I like to sleep**
+- ⚡ Fun fact **I can benchpress 130kg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
