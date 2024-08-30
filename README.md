@@ -1,4 +1,4 @@
-<img align="center" src="gallery.png" />
+<img align="center" width="4000px" height="400px" src="gallery.png" />
 <h1 align="center">Hi 👋, I'm Pratik Wadhai</h1>
 <h3 align="center">Crafting pixel-perfect, user-centric web experiences | React enthusiast | CSS wizard</h3>
 
