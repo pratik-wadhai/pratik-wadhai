@@ -1,4 +1,4 @@
-<img style="object-fit:cover" align="center" width="4000px" height="300px" src="gallery.png" />
+<img width="1000px"   src="gallery.png" />
 <h1 align="center">Hi 👋, I'm Pratik Wadhai</h1>
 <h3 align="center">Crafting pixel-perfect, user-centric web experiences | React enthusiast | CSS wizard</h3>
 
