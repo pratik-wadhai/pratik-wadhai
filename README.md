@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Wadhai</h1>
 <h3 align="center">Crafting pixel-perfect, user-centric web experiences | React enthusiast | CSS wizard</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" /> <a href="https://twitter.com/pratik__wadhai" target="blank"><img src="https://img.shields.io/twitter/follow/pratik__wadhai?logo=twitter&style=for-the-badge" alt="pratik__wadhai" /></a>  </p>
-
-
-
-<p align="left"> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-wadhai&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-wadhai" />  </p>
 - 🔭 I’m currently working on [music-saas](https://github.com/pratik-wadhai/music_saas)
 
 - 🌱 I’m currently learning **NExt.js Shadcn**
