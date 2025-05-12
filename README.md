@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [music-saas](https://github.com/pratik-wadhai/music_saas)
 
-- 🌱 I’m currently learning **NExt.js Shadcn**
+- 🌱 I’m currently learning **NExt.js**
 
 - 👯 I’m looking to collaborate on [mortgage calculator](https://github.com/pratik-wadhai/mortgage-calculator)
 
